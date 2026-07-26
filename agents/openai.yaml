@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal AI-Assisted Embedded Task Template"
+  short_description: "Apply a personal embedded AI task and validation template"
+  default_prompt: "Use $develop-embedded-projects-with-ai to structure my embedded task from verified context through implementation, build, and hardware evidence."
